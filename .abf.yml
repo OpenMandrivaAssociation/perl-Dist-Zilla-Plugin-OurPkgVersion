@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-OurPkgVersion-0.1.2.tar.gz: e72fc4d1af61c8bfc02ce49d75dd4630002d9330
 sources:
-  "Dist-Zilla-Plugin-OurPkgVersion-0.1.2.tar.gz": e72fc4d1af61c8bfc02ce49d75dd4630002d9330
+  Dist-Zilla-Plugin-OurPkgVersion-0.005001.tar.gz: 48068a53c04d4ee092b7a33e7681dfe4064c52df
